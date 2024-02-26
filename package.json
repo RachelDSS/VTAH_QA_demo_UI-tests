@@ -1,0 +1,21 @@
+{
+  "name": "vtah_qa_demo_ui-tests",
+  "version": "1.0.0",
+  "description": "Demo of UI tests project for the VISEO TECH AN HOUR (VTAH) arround the QA job",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachelDSS/VTAH_QA_demo_UI-tests.git"
+  },
+  "author": "Rachel DA SILVA SANTOS & Maïra ATTOUMANI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachelDSS/VTAH_QA_demo_UI-tests/issues"
+  },
+  "homepage": "https://github.com/RachelDSS/VTAH_QA_demo_UI-tests#readme"
+}
