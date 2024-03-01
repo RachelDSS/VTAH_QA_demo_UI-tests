@@ -1,0 +1,9 @@
+{
+  "VISA" : {
+    "name" : "VTAH credit card",
+    "number" : "1111 2222 3333 4444",
+    "cvc": "000",
+    "expMonth" : "03",
+    "expYear" : "2025"
+  }
+}

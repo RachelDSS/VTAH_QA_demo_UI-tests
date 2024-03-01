@@ -10,8 +10,10 @@ module.exports = defineConfig({
         specPattern: "**/features/*.feature",
         scrollBehavior: 'center',
         defaultCommandTimeout: 30 * 1000,
-        viewportWidth: 1920, // Most used Desktop size
-        viewportHeight: 1080, // Most used Desktop size
+        viewportWidth: 1920, // Most used Desktop resolution
+        viewportHeight: 1080, // Most used Desktop resolution
+        // viewportWidth: 360, // Most used Mobile resolution
+        // viewportHeight: 800, // Most used Mobile resolution
         browser: 'chrome', // Most used browser
     },
 });
