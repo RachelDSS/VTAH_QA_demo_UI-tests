@@ -31,7 +31,7 @@ You can observe your test running.
     > npx cypress run --browser chrome
  
 - Run specifics tests by cucumber tags 
-    > npx cypress run --env tags="@GlobalTag and @TAG1"
+    > npx cypress run --env tags="@FEATURE_001 and @login"
 
 - Run tests on a specific screen resolution 
     > npx cypress run --config viewportWidth=360,viewportHeight=800

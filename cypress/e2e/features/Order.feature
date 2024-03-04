@@ -1,5 +1,7 @@
+@FEATURE_002
 Feature: As a customer I would like to be able to pass an order
 
+  @login @order
   Scenario: Customer pass an order - Nominal Case
 
     Given go to the e-commerce web site
