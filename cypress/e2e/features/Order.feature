@@ -23,5 +23,3 @@ Feature: As a customer I would like to be able to pass an order
     When confirm the checkout
     And pay with the 'VISA' credit card informations
     Then the order is successfully validate
-
-
