@@ -15,7 +15,7 @@ On the project folder run the command :
 
 ### Run a test on the graphical tool 
 On the project folder execute the command :
-> npx cypress run
+> npx cypress open
 
 After select the "e2e" option, choose your browser and select your test. 
 You can observe your test running.

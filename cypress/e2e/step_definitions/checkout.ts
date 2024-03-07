@@ -37,4 +37,4 @@ Then("the delivery address is the address of {string}", (accountLabel : string) 
 
 Then("the order is successfully validate", () => {
     cy.get('#form').should('contain', "Congratulations! Your order has been confirmed!");
-})
+});
